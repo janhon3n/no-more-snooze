@@ -10,9 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "audio-loader": "^1.0.3",
+    "audio-play": "^2.2.0",
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
     "express": "^4.16.2",
-    "moment": "^2.20.1"
+    "moment": "^2.20.1",
+    "mplayer": "^2.1.0",
+    "openurl": "^1.1.1",
+    "player": "^0.6.1",
+    "win-audio": "^1.1.8"
   }
 }
